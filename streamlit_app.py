@@ -79,7 +79,7 @@
 
 <script>
     // ==========================================
-    // 🛑 CONFIGURATION DU TRUQUAGE ICI 🛑
+    // 🛑 ayoubsabbart Dji 😍 🔥 @mouad.yoda 🛑
     // C'est ici que tu décides qui gagne avant même de lancer !
     // ==========================================
     
